@@ -102,3 +102,9 @@ dist
 
 # TernJS port file
 .tern-port
+
+# AI configuration files
+CLAUDE.md
+AGENTS.md
+.claude/
+.cursor/
